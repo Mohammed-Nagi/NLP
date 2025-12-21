@@ -41,7 +41,6 @@ The implementation follows a two-stage strategy:
 
 * `SemEval_2026_Task_9.ipynb`: The primary notebook containing data loading, preprocessing, model definitions, training loops, and inference logic.
 * `README.md`: System documentation.
-* `requirements.txt`: Python dependencies.
 
 ## Usage Instructions
 
